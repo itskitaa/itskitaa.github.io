@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=3;
-Typer.file="kitaa.txt";
+Typer.file="whoami.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);

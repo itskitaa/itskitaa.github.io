@@ -1,5 +1,5 @@
-<span id="a">kitaa@maverick254</span>:<span id="b">~</span><span id="c">#</span> cd kitaa/<!-- kjsdfhkjdhsfkjdshfkj -->who-am-i
-<span id="a">kitaa@maverick254</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->kitaa.txt<br/><br/>
+<span id="a">kitaa@maverick254</span>:<span id="b">~</span><span id="c">#</span> cd kitaa/<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">kitaa@maverick254</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->whoami.txt<br/><br/>
 Hey There! My name is, "<span id="k">Alex Kyalo aka Kitaa </span>". <!-- sjkfhskjf -->
 
 Glad to see you here. This is my portflio website in the skin that emulates a terminal shell.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
